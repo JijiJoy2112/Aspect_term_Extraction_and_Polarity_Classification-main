@@ -127,7 +127,7 @@ streamlit run gui.py
 ---
 
 ## Contributors
-- **[Sayapureddy sai surya teja]** - Developer
+- **[Jiji Mooroliparambil Joy]** - Developer
 
 ---
 
